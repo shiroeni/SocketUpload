@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketUpload", "SocketUpload\SocketUpload.csproj", "{027CFC55-0D7B-47C5-9BAE-9163972B5C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketUploadClient", "SocketUploadClient\SocketUploadClient.csproj", "{73447A40-7BC8-42EE-B7B2-43035559B85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027CFC55-0D7B-47C5-9BAE-9163972B5C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027CFC55-0D7B-47C5-9BAE-9163972B5C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027CFC55-0D7B-47C5-9BAE-9163972B5C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027CFC55-0D7B-47C5-9BAE-9163972B5C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73447A40-7BC8-42EE-B7B2-43035559B85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73447A40-7BC8-42EE-B7B2-43035559B85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73447A40-7BC8-42EE-B7B2-43035559B85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73447A40-7BC8-42EE-B7B2-43035559B85D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0969083A-7055-4700-B808-79F941B7A49E}
+	EndGlobalSection
+EndGlobal
